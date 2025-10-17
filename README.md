@@ -1,20 +1,25 @@
-# Simple Calculator
+# Calculator Project
 
-## Project Overview
-This project is a simple calculator interface built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+## Overview
+This project is a simple calculator built with HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## Round 2 Updates
+In this round, the following changes were made:
+- Implemented JavaScript functionality for the equals button to compute and display the result of the entered expression.
+- Enhanced the design by switching to a dark mode theme for a modern and user-friendly interface.
 
 ## Features
 - User-friendly interface
-- Supports basic arithmetic operations
-- Clear and reset functionality
-- Responsive design
+- Basic arithmetic operations
+- Clear button to reset the display
+- Built with responsive design principles
 
-## Round 1 Updates
-In this round, the following changes were made:
-- Created a calculator interface with buttons for digits 0-9 and operations (+, -, *, /).
-- Added a display area to show input and results.
-- Implemented JavaScript functionality to handle button clicks, clear the display, and calculate results using the `eval` function.
-- Styled the calculator for a clean and modern look with CSS, including hover effects for buttons.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Getting Started
-To run the project, simply open the `index.html` file in a web browser.
+## How to Use
+1. Enter numbers and select operations using the buttons.
+2. Press the "=" button to see the result.
+3. Use the "C" button to clear the display.
