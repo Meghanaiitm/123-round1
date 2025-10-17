@@ -10,7 +10,7 @@ function calculateResult() {
     const display = document.getElementById('display');
     try {
         display.value = eval(display.value);
-    } catch {
+    } catch (error) {
         display.value = 'Error';
     }
 }
